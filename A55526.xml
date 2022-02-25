@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Humble proposalls to the honorable the Councell for Trade and all merchants and others who desire to improve their estates, shevving what particulars if enacted by Parliament would (as with due submission is conceived) conduce to advance trade, imploy the poore, diminish interest, improve publique revenues; and prevent the cruelty of creditors, and the injustice of debtors. Tending (likewise) speedily to promote the enterprise discovered in a late treatise, entituled, The key of wealth, and in an abstract thereof, called, The trades-man's jewel.</title>
+            <author>Potter, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55526</idno>
+            <idno type="STC">Wing P3033</idno>
+            <idno type="STC">ESTC R218337</idno>
+            <idno type="EEBO-CITATION">99829941</idno>
+            <idno type="PROQUEST">99829941</idno>
+            <idno type="VID">34388</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55526)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34388)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2014:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Humble proposalls to the honorable the Councell for Trade and all merchants and others who desire to improve their estates, shevving what particulars if enacted by Parliament would (as with due submission is conceived) conduce to advance trade, imploy the poore, diminish interest, improve publique revenues; and prevent the cruelty of creditors, and the injustice of debtors. Tending (likewise) speedily to promote the enterprise discovered in a late treatise, entituled, The key of wealth, and in an abstract thereof, called, The trades-man's jewel.</title>
+                  <author>Potter, William.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Edward Husband, at the Golden Dragon in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed by W. Potter.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Debtor and creditor --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34388:1" rendition="simple:additions"/>
+            <p>HUMBLE PROPOSALLS TO THE Honorable the Councell FOR TRADE: And all Merchants and others who deſire to improve their Eſtates.</p>
+            <p>SHEVVING What particulars if Enacted by Parlia<g ref="char:EOLhyphen"/>ment would (as with due ſubmiſſion is conceived) conduce TO Advance Trade, Imploy the Poore, Diminiſh Intereſt, Improve Publique Revenues; And prevent the cruelty of Creditors, and the injuſtice of Debtors.</p>
+            <p>Tending (likewiſe) ſpeedily to promote the Enterpriſe diſcovered in a late treatiſe, entituled, <hi>The Key of wealth,</hi> And in an Abſtract thereof, called, <hi>The Trades-man's Jewel.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>ECCLES. 3.13.</hi>
+               </bibl> That every man eateth and drinketh, and ſeeth the commodity of all his labour, this is the gift of God.</q>
+            <q>
+               <bibl>
+                  <hi>PSAL. 82.4.</hi>
+               </bibl> Deliver the Poor and needy, ſave them from the hand of the Oppreſſor.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Edward Husband,</hi> at the Golden Dragon in Fleet-ſtreet, 1651.
+<pb facs="tcp:34388:2" rendition="simple:additions"/>
+               <pb facs="tcp:34388:2" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34388:3"/>
+            <pb n="3" facs="tcp:34388:3"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I firſt undertook to publiſh my Appre<g ref="char:EOLhyphen"/>henſions concerning the Enterpriſe men<g ref="char:EOLhyphen"/>tioned in a Treatiſe called the <hi>Key of Wealth,</hi> truly I did expect much charge and toil, but (conſidering as I then noted the general averſeneſſe of mens minds to<g ref="char:EOLhyphen"/>wards thoſe things which are vulgarly called <hi>new devices</hi>) I had little hope of fruit during my preſent life, either to the Nation in generall, or to my ſelf in particular, other then the comfort of doing my duty in ſowing that ſeed, which happily being rotted in the earth might in time ſpring up to the advantage of ſome ſucceeding generation: And I muſt needs confeſſe, my fear of being eſteemed one given to ſelf<g ref="char:EOLhyphen"/>conceit, &amp; bringing my name on the ſtage upon that account, I found to be the ſtrongeſt temptation I had to wraſtle with.</p>
+            <p>But ſeeing through the good hand of providence, what I have hitherto propoſed is generally reſented by thoſe who haveperuſed the ſame, it gives me now ſome ground to expect better things, which I cannot but eſteem a ſpeciall call to lay out the utmoſt of my weak ability in proſecuting a matter of ſuch univerſall concernment.</p>
+            <p>
+               <pb n="4" facs="tcp:34388:4"/>And for that amongſt other particulars already intimated, there is one which tends by making Bills currant throughout the whole Nation at once) to bring on (with much greater fa<g ref="char:EOLhyphen"/>cility and ſpeed then otherwiſe can be expected) all the reſt of thoſe wiſhed conſequences which will neceſſarily follow from the practiſe of the aforeſaid Enterprize; It is my pur<g ref="char:EOLhyphen"/>poſe to ſhew first how this may be effected, referring other things (as in ſome ſort depending thereon) to ſuch further opportunity as God ſhall be graciouſly pleaſed to grant: In the mean time I defire ſtill to remain,</p>
+            <closer>
+               <signed>
+                  <hi>Hopefull and ſollicitous of</hi> Englands <hi>proſperity, W. Potter.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:34388:4"/>
+            <div n="1" type="section">
+               <head>SECT. I.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat according to the revolution of money, or that which goes for ſuch, ſuch is the revolution of Commo<g ref="char:EOLhyphen"/>dity or Trade is doubtleſſe (as I have intimated in my former diſ<g ref="char:EOLhyphen"/>courſes) evident to all men.</p>
+               <p>Now if every perſon who hath money owing to him, had a Bill ex<g ref="char:EOLhyphen"/>preſſing the ſum, and day of payment; and if this Bill would paſſe from hand to hand for commodity, until ſuch day of payment, this would tend exceedingly both to the Advancement of Trade, Imployment of the Poore, and Encreaſe of Cuſtome and Exciſe.</p>
+               <p>For ſuppoſe a Debtor owes his Creditor 100. <hi>l.</hi> to bee paid at Six months; if this 100. <hi>l.</hi> paſſes no further till the end of thoſe Six months, in this caſe it lies like money hoarded up in the hands only of that Creditor; whereas if
+<pb n="6" facs="tcp:34388:5"/>it could in the mean time bee made to paſſe in a Bill through ſix or eight hands like ſo much money, it would beget ſix or eight times as much return of commodity.</p>
+               <p>Now if all the debts of the Nation were given thus in Bills unto the Creditors, it would amount to a ſum of as great a value as the Credit of all the Tradeſmen in the Nation, which is uſually two or three times as much as their Eſtates.</p>
+               <p>This ſum if it could bee returned in commodity ſix or eight times in half a year, that is, twelve or ſixteen times in the whole year, would prove to be of incredible advan<g ref="char:EOLhyphen"/>tage.</p>
+               <p>Again, if I have a Bill for 100. <hi>l.</hi> payable at ſix months with intereſt at 8 <hi>per Cent.</hi> and keep this Bill three months in my hands before I have occaſion to transferre it to any other; it wil at the end of three months be valued at 102. <hi>l.</hi> and hee that receives it, if hee keeps it the other three months is to be allowed 104. <hi>l.</hi> for it.</p>
+               <p>So that whereas hee who receives money hath no kind of advantage during the time of its lying by, he who re<g ref="char:EOLhyphen"/>ceives theſe Bills, hath that which like the fruit of a tree, grows whilſt it is in his poſſeſſion.</p>
+               <p>Now if it be doubted how ſuch a quantity of theſe Bils, may,</p>
+               <p>Firſt, be diſperſed throughout the whole Land immedi<g ref="char:EOLhyphen"/>ately, and</p>
+               <p>Secondly, Made to paſſe from hand to hand in ſuch ſort as is here expreſſed: I referre you for that to what fol<g ref="char:EOLhyphen"/>lows.</p>
+            </div>
+            <div n="2" type="section">
+               <pb n="7" facs="tcp:34388:5"/>
+               <head>SECT. II.</head>
+               <p>TO the end that the two things laſt premiſed may bee ſpeedily accompliſhed, let it be admitte,</p>
+               <p>That there were an Act of Parliament ford removing the obſtructions in Law, and other difficulties that are found in transferring of Bills from one to another; to which purpoſe, there is a Petition it ſeems already preſen<g ref="char:EOLhyphen"/>ted, whereof, I am very glad; yet, I humbly deſire that the things following, may alſo be conſidered, <hi>viz.</hi>
+               </p>
+               <p>That it were enacted, that ſuch Bills ſhall be payable in Law, before any Book debts, Bills, or Bonds whatſoever, <hi>viz.</hi> in the ſame rank and order, and in all reſpects in the ſame manner, as if a man had confeſſed a Judgment upon his whole eſtate for the payment thereof.</p>
+               <p>That whoſoever accepting of theſe Bills transfers them to any other perſon, ſhall (being cauſed to ſubſcribe them) be liable to the payment of them equally with him that firſt gave them forth, as jointly bound with him, in ſuch ſort as in Bills of Exchange the underwriter is obliged as wel as the Drawer.</p>
+               <p>That whoſoever hath any debts owing to him at the time of this Acts commencing, ſhall have power to de<g ref="char:EOLhyphen"/>mand ſuch Bills of his Debtor, and the Debtor ſhall not deny to grant the ſame under a certain penalty.</p>
+               <p>Provided, That all debts contracted before the com<g ref="char:EOLhyphen"/>mencing of this Act (for which there is ſuch Bills as afore<g ref="char:EOLhyphen"/>ſaid taken) ſhall be payable before any other that ſhall af<g ref="char:EOLhyphen"/>terwards be contracted; and that in the ſame rank and or<g ref="char:EOLhyphen"/>der as they would have been payable, though this Act had never been made.</p>
+               <p>Many other things which I ſhall referre to debates by
+<pb n="8" facs="tcp:34388:6"/>word of mouth are needfull to be added; chiefly in order to the preventing of cheats by counterfeit Bills: But theſe particulars being Enacted, it would follow,</p>
+               <p>That no man for the future would deliver ware upon truſt without ſuch Bills, and thoſe that had already ſo de<g ref="char:EOLhyphen"/>livered ware, would immediately upon the commencing of this Act demand ſuch Bills from their Debtors.</p>
+               <p>The reaſon is cleer, becauſe no man would bee willing that another ſhould have better ſecurity then himſelfe, when he himſelfe may have the ſame ſecurity for asking; which if others obtaining he ſhould miſs of, it makes his debts liable to ſecure the debts of thoſe others, but not the debts of thoſe others to ſecure his.</p>
+               <p>Now if every man do at once demand of theſe Bills for his debts, it would immediately follow that every mans hands would be full of theſe Bills; ſo as there would be as many Bills diſperſed at once throughout the land, as the debts of all the men in the Nation do amount unto.</p>
+               <p>The means to accompliſh which was the firſt thing to be diſcovered, the cleering of the ſecond particular fol<g ref="char:EOLhyphen"/>lows.</p>
+            </div>
+            <div n="3" type="section">
+               <head>SECT. III.</head>
+               <p>NOw that theſe Bills would hereupon become ſo farre forth currant as to paſs from hand to hand for com<g ref="char:EOLhyphen"/>modity; let it be conſidered,</p>
+               <p>That there is ſcarce any Trader in <hi>England,</hi> but is uſed to truſt ſome one perſon or other, and is able to find out ſome one or other that is willing to truſt him.</p>
+               <p>Let it therefore be ſuppoſed that <hi>A.</hi> hath taken up ware
+<pb n="9" facs="tcp:34388:6"/>of <hi>B.</hi> and that this <hi>B.</hi> hath credit with <hi>C.</hi> though he ſhould give him no ſecurity.</p>
+               <p>Then let <hi>B.</hi> taking a Bill from <hi>A.</hi> take up ware from <hi>C.</hi> and transferre that Bill unto <hi>C.</hi> which he had of <hi>A.</hi>
+               </p>
+               <p>Now in caſe <hi>C.</hi> is not willing to accept of this Bill, not knowing whether <hi>A.</hi> be a ſufficient man.</p>
+               <p>Yet in regard that <hi>C.</hi> is willing to truſt <hi>B.</hi> (although he had no ſecurity from him) let <hi>B.</hi> ſubſcribe the ſame Bill which he had of <hi>A.</hi> ingaging himſelfe thereby to make it good in caſe <hi>A.</hi> ſhould fail ſo to doe.</p>
+               <p>Hereby <hi>C.</hi> will have double ſecurity, for if <hi>B.</hi> ſhould fail, yet <hi>A.</hi> is bound to make good the debt, neither will <hi>C.</hi> much doubt but that <hi>A.</hi> is of ſome ability, or elſe his friend <hi>B.</hi> would not have truſted him.</p>
+               <p>Further, let <hi>C.</hi> having credit with <hi>D.</hi> take up ware upon the ſame Bill, engaging himſelf to make it good.</p>
+               <p>Thus ſhall <hi>D.</hi> have treble ſecurity, <hi>viz.</hi> both from <hi>A. B</hi> and <hi>C.</hi> which with his own credit as a fourth perſon, can<g ref="char:EOLhyphen"/>not chooſe but inable him to take up ware upon this Bill much better then upon his own ſingle credit without it.</p>
+               <p>And for the ſame reaſon a fifth perſon may much more eaſily procure ware upon it from a ſixth perſon, and ſo on till the money become due.</p>
+               <p>So that from all this it is evident, that if Bills will but paſſe the firſt hand, they will not fail to paſſe currantly through all the reſt.</p>
+               <p>And the rather for that they increaſe by the intereſt in e<g ref="char:EOLhyphen"/>very mans hand, during the time of their lying by, as I have already ſhewed.</p>
+               <p>And it is as cleer, that except men ceaſe for the future to deal any more upon credit, theſe Bills will not faile to be accepted at the firſt hand.</p>
+               <p>Eſpecially in regard that, they will prove as good ſecurity
+<pb n="10" facs="tcp:34388:7"/>at the very firſt hand, as if the Debtor had confeſſed a Judgment for the payment of them.</p>
+               <p>Now if every mans hands were full of ſuch Bills as would paſſe for money, what man is there but for the im<g ref="char:EOLhyphen"/>provement of his ſtock, would bee taking up commodity upon them?</p>
+               <p>And conſequently the generality of men would bee in preſent capacity to ſell their commodity by accepting of them, and to procure new commodity with them by trans<g ref="char:EOLhyphen"/>ferring them to others; whereby the commodity ſo taken up upon Bills, would immediately be vended again by the revolution of the ſame Bills, and ſo perpetually.</p>
+            </div>
+            <div n="4" type="section">
+               <head>SECT. IV.</head>
+               <p>IF it be objected, that there would by this means bee ſo many Bills ſtirring, as men would receive little or no money werewith to pay their debts.</p>
+               <p>I anſer, mens Bills going about uutill the day for pay<g ref="char:EOLhyphen"/>ment of them in money, will not make the money in the Land ever the leſs, nor the ſums payable in money ever the more.</p>
+               <p n="2">2. Hee who is to pay money the firſt of <hi>Iune</hi> next, upon ſome Bills of his own giving forth, if in the mean time hee receive Bils payable upon the firſt of <hi>May</hi> next, the mony which hee receiveth upon theſe Bills in <hi>May,</hi> will ſerve towards the payment of his own bills in <hi>Iune.</hi>
+               </p>
+               <p n="3">3. Thoſe Bills which he finds not payable till after the ſaid firſt of <hi>Iune,</hi> hee may lay out again in commodity as faſt as he receiveth, which commodity, with all the reſt of his ſtock, will give him credit to borrow mony wherewith to pay his debts.</p>
+               <p>
+                  <pb n="11" facs="tcp:34388:7"/>And to the end that men who are able to give ſecurity, may never be driven to extremities for procuring money to pay their debts at any day appointed whatſoever, as now they uſually are.</p>
+               <p>Let it be ſuppoſed that at each City or Town of conſi<g ref="char:EOLhyphen"/>derable reſort, there were places appointed where thoſe Bills ſhould be made payable.</p>
+               <p>Hence it would come to paſs, that the paiment of al theſe Bills in thoſe places, would ſuddainly bring in all the mo<g ref="char:EOLhyphen"/>ney in the land into theſe houſes as into ſo many banks, as I ſhall make to appear when need requires.</p>
+               <p>By this means there would never want millions of mo<g ref="char:EOLhyphen"/>ney in bank to lend unto thoſe men who are able to give ſecurity for the repayment thereof.</p>
+               <p>Yet neither thoſe that borrow pay to others, nor yet thoſe others that are to receive the money, will trouble themſelves to take it out of the bank.</p>
+               <p>But to prevent the ſurpriſall of the money by any Inſur<g ref="char:EOLhyphen"/>rection or Commotion, it may bee lent forth upon good ſecurity and ſmall intereſt to all that are willing to bor<g ref="char:EOLhyphen"/>row it, which as faſt as it comes in again by the hands of others, may be lent forth again immediately; ſo as there ſhould not at any time be any conſiderable quantity there<g ref="char:EOLhyphen"/>of remaining in bank.</p>
+               <p>There are alſo other ways whereby the money might be diſperſed into ſeverall hands, ſo as each mans Cheſt ſhould be in effect ſo many ſeverall Banks, and yet ſufficient ſecu<g ref="char:EOLhyphen"/>rity for millions of money to bee forth coming at three days warning.</p>
+               <p>The vaſt conſequences of ſuch Banks is already experi<g ref="char:EOLhyphen"/>enced in ſeverall parts of the World: And if I might here inlarge, I could demonſtrate that the ſame quantity of money would by this means ſoon occaſion ten times as
+<pb n="12" facs="tcp:34388:8"/>much trading as now it doth and yeeld five times as much iutereſt, although the Borrower ſhould not pay above half that rate <hi>per cent.</hi>
+               </p>
+               <p>But if this way of Banks be not approved of, yet I deſire that it may be obſerved that the aforeſaid way of Bils may be carried on, though they ſhould not be made payable in one place.</p>
+               <p>If any thing which is here taken for granted be queſtion<g ref="char:EOLhyphen"/>ed, I am ready to make good what I ſay to thoſe who deſire it.</p>
+            </div>
+            <div n="5" type="section">
+               <head>SECT. V.</head>
+               <p>VVHat can bee further objected againſt any thing that hath been propoſed hitherto, I know not.</p>
+               <p>For if it ſhould be alleaged, that ſuch an Act as is alrea<g ref="char:EOLhyphen"/>dy mentioned, would make all Creditors for the future to have equall title to the debts that are owing to them.</p>
+               <p>
+                  <hi>Anſw.</hi> 1. What Juſtice is there for the contrary?</p>
+               <p n="2">2. Why ſhould it bee in the power of the Debtor to confeſs a Judgment to ſome one of his Creditors, when his Eſtate will not ſerve to pay halfe the reſt of his debts?</p>
+               <p n="3">3. Or why ſhould that Creditor which deals moſt roughly with his Debtor have all the Eſtate, whereby thoſe that are more favourable are enforced to loſe their right?</p>
+               <p n="4">4. This makes moſt Creditors (jealous leſt others ſhould prevent them) to be more cruel with their Debtors then they ſhould or otherwiſe would.</p>
+               <p n="5">5. Such an Act would prevent an infinite number of Law-ſuits, with the many inconveniences incident there<g ref="char:EOLhyphen"/>unto.</p>
+               <p>
+                  <pb n="13" facs="tcp:34388:8"/>Now if it be yeelded, that an Act whereby to give each man equal right to the debts that are owing to him (whe<g ref="char:EOLhyphen"/>ther or no he uſe any violent means by Law to procure the ſame) is no leſs then juſt, then the laying of a neceſſity up<g ref="char:EOLhyphen"/>on men to take ſome written or printed evidence whereby ſuch their right may appear, cannot be excepted againſt: for,</p>
+               <list>
+                  <item>1. Otherwiſe the right could not ſo well appeare.</item>
+                  <item>2. There is no earthly prejudice in taking of Bills more then in truſting men without Bills.</item>
+                  <item>3. Mens Words cannot paſs about to the Advantage of trade as Bills may.</item>
+                  <item>4. Rich men ſet the Poor on work, and for want of rea<g ref="char:EOLhyphen"/>dy money pay them at leaſure, or if they bee ſo poore as they cannot ſtay for their money, they take an advantage thereby to grind their faces by making them work at un<g ref="char:EOLhyphen"/>der rates; now if the poore man had the rich mans Obli<g ref="char:EOLhyphen"/>gation in paper it would be ready money to him.</item>
+                  <item>5. Though there were no ſuch Act as whereby to make ſuch Bills equall to Judgments, yet it would not bee the leaſt prejudice to the Debtor to give Bills, but much ad<g ref="char:EOLhyphen"/>vantage to the Creditor demand them.</item>
+               </list>
+               <p>For the Creditor by demanding a Bill ſhall know whe<g ref="char:EOLhyphen"/>ther his Debtor will give him only his own ſingle credit or aſſign him ſome Bill of a good debt beſides his own eſtate for his ſecurity, and therefore may truſt him for more or leſs accordingly; and likewiſe the ſame Creditor having received a Bill from the Debtor, will by producing this evidence have much better credit with a third perſon then otherwiſe.</p>
+               <p>
+                  <hi>Obj.</hi> But I have a Bill payable at <hi>London,</hi> which I have occaſion to aſſign to ſome friend living at <hi>Yorke.</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> When the mony is paid in at the bank in <hi>London,</hi>
+                  <pb n="14" facs="tcp:34388:9"/>it may upon notice by thoſe are concerned therein be paid out again at the bank in <hi>Yorke.</hi>
+               </p>
+               <p>
+                  <hi>Obj.</hi> I had a bill made over to mee, but it is loſt or ſur<g ref="char:EOLhyphen"/>priſed by violence in ſome journey, or otherwiſe.</p>
+               <p>
+                  <hi>Anſw.</hi> This Objection holds as ſtrongly againſt the uſe of money as of bills; for if a man loſe his money, what re<g ref="char:EOLhyphen"/>medy, except he who finds it be willing to make reſtituti<g ref="char:EOLhyphen"/>on?</p>
+               <p n="2">2. He that hath loſt the bill cauſeth proclamation to be made of what number it is, and from what perſon origi<g ref="char:EOLhyphen"/>nally it came. In which caſe ſeeing he that hath ſurpriſed or found this bill or his aſſignee muſt repair to the bank by the day of payment, or elſe is like never to be the better for it, he muſt there look to be apprehended for not diſcove<g ref="char:EOLhyphen"/>ring it upon the aforeſaid proclamation.</p>
+               <p>This might be much better cleered, but that I muſt bee brief.</p>
+            </div>
+            <div n="6" type="section">
+               <head>SECT. VI.</head>
+               <p>HOw much theſe laſt Propoſalls tend to promote that other way of making bills currant by a Corporation of men engaged to pay them in money within ſix months after the demanding thereof, mentioned in my former Diſcourſes.</p>
+               <p>And how much that way doth exceed in reſpect of the method here propounded, though this be much more ad<g ref="char:EOLhyphen"/>vantagious then the ordinary way of trading, ſhall God willing be made to appear, if not in print publickly, yet in private debates with thoſe who are concerned therein up<g ref="char:EOLhyphen"/>on the next opportunity.</p>
+               <p>
+                  <pb n="15" facs="tcp:34388:9"/>In the mean time that ſuch ſcruples as may poſſibly pre<g ref="char:EOLhyphen"/>judice men (againſt what hath been already publiſhed) may be removed, if any who have not read the aforeſaid Trea<g ref="char:EOLhyphen"/>tiſe, called, <hi>The Key of Wealth,</hi> ſhould bee troubled at the greatneſſe of the undertaking in the Title page; let it bee conſidered (as was acknowledged by one who well under<g ref="char:EOLhyphen"/>ſtandeth things of this nature) that whatſoever cannot be counterfeited is Gold (which he ſpake not to flatter, but to ſhew his diffidence in order to what was affirmed in that particular) if therefore Gold may be made of Paper with<g ref="char:EOLhyphen"/>out conſiderable charge, what is it amongſt earthly things that may not ſafely be undertaken?</p>
+               <p>If any ſay, that to prevent the falſifying of Bills is im<g ref="char:EOLhyphen"/>poſſible, yet it will bee no great trouble to challenge him upon it who is both engaged and willing to make it appear poſſible; wiſhing that the matter were once wholly brought to that iſſue, not doubting in the mean time but through Gods aſſiſtance to demonſtrate that there was not any one thing promiſed in either of the aforeſaid Diſcourſes, with<g ref="char:EOLhyphen"/>out ſuch warineſs as becomes a publick undertaking.</p>
+               <p>If the difficulty and hazard of Suretyſhips be pleaded.</p>
+               <p>Some difficulty and ſome hazzard was alwaies acknow<g ref="char:EOLhyphen"/>ledged to be incident to this attempt: but was there ever a thing of ſo great concernment ſo eaſily accompliſhable? Is not the ordinary way of trading incident to much grea<g ref="char:EOLhyphen"/>ter hazzard? Is there any other imaginable inconvenience that can poſſibly be put into the ballance, againſt all thoſe important effects which are the iſſues of this attempt? And yet to ſilence all gain-ſaying, I have undertaken to diſco<g ref="char:EOLhyphen"/>ver how both the difficulty and hazzard of that manner of Suretyſhip which was formerly propoſed, may bee remo<g ref="char:EOLhyphen"/>ved, and poſſibly it will appear to be after a manner better then is yet expected.</p>
+               <p>
+                  <pb n="16" facs="tcp:34388:10"/>And to conclude in a word: How upon a bill of tenne pound, or more one may fetch ware of ſeverall perſons to the value of two or three ſhillings the peece, or leſs, as there ſhall bee occaſion, and that without conſiderable trouble or prejudice, I ſhall alſo, as I have formerly under<g ref="char:EOLhyphen"/>taken, diſcover when it will bee ſeaſonable, if that bee thought needfull.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34388:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
